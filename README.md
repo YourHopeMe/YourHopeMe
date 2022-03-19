@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YourHopeMe ( Aman Kumar Singh)
+- 👋 Hi, I’m @YourHopeMe ( Aman Kumar Singh )
 - 👀 I’m interested in  knowing Physics and maths of World.
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on AIML and Quantum  relm problem solving.
